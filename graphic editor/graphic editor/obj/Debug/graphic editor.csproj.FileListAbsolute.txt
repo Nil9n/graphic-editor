@@ -1,0 +1,16 @@
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\bin\Debug\graphic editor.exe.config
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\bin\Debug\graphic editor.exe
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\bin\Debug\graphic editor.pdb
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.csproj.AssemblyReference.cache
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\MainWindow.g.cs
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\App.g.cs
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor_MarkupCompile.cache
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor_MarkupCompile.lref
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\MainWindow.baml
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\Themes\Generic.baml
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.g.resources
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.csproj.CoreCompileInputs.cache
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.exe
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.pdb
+C:\Users\sweetwater\source\repos\Laba2\graphic editor\graphic editor\obj\Debug\graphic editor.exe.config
